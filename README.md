@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rafi-ur-Rashid
 - 👀 I’m interested in Python programming, machine learning, and data science
 - 🌱 I’m currently exploring federated learning, security and privacy of machine learning models
-- 💞️ I’m looking to collaborate on some research/ projects that include Machine learning
+- 💞️ I’m looking to collaborate on relevant research/ projects that incorporates exciting Machine learning applications
 - 📫 How to reach me ... mail: rafiurrashid150@gmail.com
 
 <!---
